@@ -15,9 +15,9 @@ To install just run the script with the path of your choice to install it to a c
 
 EX : 
 
-`sh install-illustrator-2021` will install to the default folder
+`sh install-illustrator-2021.sh` will install to the default folder
 
-`sh install-illustrator-2021 /home/username/folder/foo/` will install illustrator in /home/username/folder/foo/
+`sh install-illustrator-2021.sh /home/username/folder/foo/` will install illustrator in /home/username/folder/foo/
 
 **Uninstalling :**
 
