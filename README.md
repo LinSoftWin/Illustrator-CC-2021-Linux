@@ -7,7 +7,7 @@ A script that install Illustrator 2021 on Linux
 
 This git repo contains an installer for illustrator CC 2021.
 
-**If you use something from my repo OR my host server in your project please credit me in the first lines !**
+**If you use something from my repo OR my host server in your project please credit me in the first lines ! if not respected, it will be my last open-source release.**
 
 
 **Installing :**
