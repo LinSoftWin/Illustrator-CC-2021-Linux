@@ -2,6 +2,14 @@
 A script that install Illustrator 2021 on Linux
 
 
+**DISCLAIMER :**
+**Please use this software only if you have an active Photoshop subscription. I'm not responsable of any use without subscription.**
+
+This git repo contains an installer for illustrator CC 2021.
+
+**If you use something from my repo OR my host server in your project please credit me in the first lines !**
+
+
 **Installing :**
 To install just run the script with the path of your choice to install it to a custom path. if you don't specitfy it, it will use the default one to /home/yourusername/.WineApps.
 
