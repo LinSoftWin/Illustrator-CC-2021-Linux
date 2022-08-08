@@ -2,6 +2,13 @@
 A script that install Illustrator 2021 on Linux
 
 
+**Installing :**
+To install just run the script with the path of your choice to install it to a custom path. if you don't specitfy it, it will use the default one to /home/yourusername/.WineApps.
+
+EX : 
+`sh install-illustrator-2021` will install to the default folder
+`sh install-illustrator-2021` /home/username/folder/foo´ will install illustrator in /home/username/folder/foo/
+
 **Uninstalling :**
 
 To uninstall remove the Illustrator desktop file in *~/.local/share/applications/* then your installation folder
