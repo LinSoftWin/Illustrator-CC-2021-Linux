@@ -7,7 +7,7 @@ A script that install Illustrator 2021 on Linux
 To uninstall remove the Illustrator desktop file in *~/.local/share/applications/* then your installation folder
 
 ## Requirements
-- wine >=6.1 (Avoid 6.20 to 6.22 **DON'T USE STAGING**)
+- wine >=6.1 (Avoid 6.20 to 6.22 **DON'T USE STAGING** used only to init the scripts then independent)
 - zenity
 - appmenu-gtk-module
 - tar
