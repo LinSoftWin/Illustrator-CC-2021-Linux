@@ -9,7 +9,7 @@ EX :
 
 `sh install-illustrator-2021` will install to the default folder
 
-`sh install-illustrator-2021` /home/username/folder/foo´ will install illustrator in /home/username/folder/foo/
+`sh install-illustrator-2021 /home/username/folder/foo/` will install illustrator in /home/username/folder/foo/
 
 **Uninstalling :**
 
