@@ -3,7 +3,7 @@ A script that install Illustrator 2021 on Linux
 
 
 **DISCLAIMER :**
-**Please use this software only if you have an active Photoshop subscription. I'm not responsable of any use without subscription.**
+**Please use this software only if you have an active Illustrator subscription. I'm not responsable of any use without subscription.**
 
 This git repo contains an installer for illustrator CC 2021.
 
