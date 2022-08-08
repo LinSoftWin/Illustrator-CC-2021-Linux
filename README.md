@@ -4,7 +4,7 @@ A script that install Illustrator 2021 on Linux
 
 **Uninstalling :**
 
-To uninstall remove the photoshop desktop file in *~/.local/share/applications/* then your installation folder
+To uninstall remove the Illustrator desktop file in *~/.local/share/applications/* then your installation folder
 
 ## Requirements
 - wine >=6.1 (Avoid 6.20 to 6.22 **DON'T USE STAGING**)
@@ -20,8 +20,7 @@ To uninstall remove the photoshop desktop file in *~/.local/share/applications/*
 ## Special thanks to
 - The WineHQ team : For making wine
 - Gictorbit : For initial inspiration
-- HansKristian-Work : For making VKD3D-Proton
-- Adobe : For making Photoshop (also please release an official version for linux...)
+- Adobe : For making Illustrator (also please release an official version for linux...)
 
 
 
