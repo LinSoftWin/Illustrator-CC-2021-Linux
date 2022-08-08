@@ -9,6 +9,8 @@ This git repo contains an installer for illustrator CC 2021.
 
 **If you use something from my repo OR my host server in your project please credit me in the first lines ! if not respected, it will be my last open-source release.**
 
+## Installation/Uninstallation
+
 
 **Installing :**
 To install just run the script with the path of your choice to install it to a custom path. if you don't specitfy it, it will use the default one to /home/yourusername/.WineApps.
