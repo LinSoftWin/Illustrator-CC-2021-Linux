@@ -1,9 +1,6 @@
 # Illustrator-CC-2021-Linux
 A script that install Illustrator 2021 on Linux
 
-## Server are down.
-**A fcking asshole is trying to brutforce my server if he manage to that will be the reason I guess...**
-
 ## Important
 
 **DISCLAIMER :**
